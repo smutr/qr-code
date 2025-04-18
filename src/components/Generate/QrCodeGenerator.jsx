@@ -22,7 +22,6 @@ function QrCodeGenerator() {
 
   return (
     <div className="container">
-      Изменеия
       <input
         type="text"
         value={value}
