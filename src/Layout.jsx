@@ -1,5 +1,5 @@
 import QrCodeGenerator from "./components/Generate/QrCodeGenerator";
-import QrCodeScanner from "./components/Scan/QrCodeScanner";
+import QrCodeScanner from './components/Scan/QrCodeScanner';
 import Navigation from "./components/Navigation/Navigation";
 import { Routes, Route } from "react-router-dom";
 

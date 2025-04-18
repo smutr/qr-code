@@ -7,8 +7,8 @@ function QrCodeScanner() {
 const [scanned, setScanned] = useState(null)
 
   function scanHandler(result) {
-    setScanned(result)
-   
+    const value = result[0].rawValue
+    setScanned(value)
    
   }
 
