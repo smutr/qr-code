@@ -1,0 +1,15 @@
+
+.scanner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    height: 100vh;
+   
+}
+
+.resultScanner {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
